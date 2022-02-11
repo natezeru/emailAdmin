@@ -1,0 +1,10 @@
+IT support administrator specialist and are charged with the task of creating accounts for new hires.
+
+
+
+* Generatre an email with the following syntax: firstName.lastName@department.company.com
+* Determine the department
+* Generate a random string for a password
+* Have set methods to change the password, set the mailbox capacity, and define an alternate email address.
+* Have get methods to display the name, email, nd mailbox capacity
+* Have file handling methods to store data into .txt file.
